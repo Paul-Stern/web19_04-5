@@ -21,3 +21,7 @@
 3. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
 * Новый раздел
 Здесь пока пусто.
+* Порядок работы с git на GitHub
+1. git add имя_файла
+2. git commit -m "Ваш комментарий"
+3. git push
