@@ -17,10 +17,11 @@
 
 * Полезные материалы
 1. [[https://www.w3schools.com/][w3schools.com]] \mdash Интернет-сборник материалов по веб-разработке.
-2. [[https://git-scm.com/book/en/v2][Pro Git book]]  ([[https://git-scm.com/book/ru/v2][на русском]]) - Книга об использовании системы контроля версий git.
-3. https://resilientwebdesign.com/ - Книга о веб-дизайне. [[https://github.com/adactio/resilientwebdesign][Исходный код]].
-4. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
-5. [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]] ([[https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md][на русском]]) \mdash сборник полезных советов по использованию командной строки, созданный на ГитХабе. Может быть полезен при работе с Git Bash. 
+2. Material [[https://material.io/design/][Design]] \mdash система дизайна, разработанная Google
+3. [[https://git-scm.com/book/en/v2][Pro Git book]]  ([[https://git-scm.com/book/ru/v2][на русском]]) - Книга об использовании системы контроля версий git.
+4. https://resilientwebdesign.com/ - Книга о веб-дизайне. [[https://github.com/adactio/resilientwebdesign][Исходный код]].
+5. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
+6. [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]] ([[https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md][на русском]]) \mdash сборник полезных советов по использованию командной строки, созданный на ГитХабе. Может быть полезен при работе с Git Bash. 
 * Порядок работы с git на GitHub
 ** Изменение существующих файлов в репозитории
 1. git add /имя_файла/
