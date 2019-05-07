@@ -23,7 +23,20 @@
 5. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
 6. [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]] ([[https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md][на русском]]) \mdash сборник полезных советов по использованию командной строки, созданный на ГитХабе. Может быть полезен при работе с Git Bash. 
 * Порядок работы с git на GitHub
+** Создание и заполнение репозитория на GitHub
+1. git init
+   - создание локального репозитория
+2. git add /Имя файла для добавления/
+3. git commit -m "/Ваш комментарий/"
+   - внесение изменений в репозиторий
+4. git remote add origin /Ссылка на репозиторий GitHub (оканчивается на .git)/
+   - привязывает локальный репозиторий git к репозиторию GitHub
+5. git push -u origin master
+   - загрузка локального репозитория на сервер
 ** Изменение существующих файлов в репозитории
 1. git add /имя_файла/
 2. git commit -m "/Ваш комментарий/"
 3. git push
+** COMMENT Перезапуск существующего репозитория
+1. Внесите необходимые изменения в файлы
+2. git init
