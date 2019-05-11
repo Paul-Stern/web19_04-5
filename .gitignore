@@ -5,3 +5,6 @@
 
 # WO images
 # homework/*/img/
+
+# no .org
+homework/*/*.org
