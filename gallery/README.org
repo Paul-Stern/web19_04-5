@@ -1,0 +1,15 @@
+* Image Sources
+1. https://commons.wikimedia.org/wiki/File:Berlin_reichstag_CP.jpg
+2. [[https://commons.wikimedia.org/wiki/File:Houses.of.parliament.overall.arp.jpg][Houses of Parliament]]
+3. [[https://commons.wikimedia.org/wiki/File:Versailles_Palace.jpg][Versailles Palace]]
+4. [[https://commons.wikimedia.org/wiki/File:Building_of_Council_of_Labor_and_Defense,_Moscow.jpg][Duma]]
+5. [[https://commons.wikimedia.org/wiki/File:Building_of_the_European_Parliament_in_Brussels.jpg][EU Parliament]]
+6. [[https://en.wikipedia.org/wiki/File:Al%C3%BEingi_2012-07.JPG][Iceland]]
+7. [[https://commons.wikimedia.org/wiki/File:Den_Haag_Binnenhof_%26_Skyline_2.jpg][Netherlands]]
+8. [[https://commons.wikimedia.org/wiki/File:Lisbon,_Portugal_(Sharon_Hahn_Darlin)_S%C3%A3o_Bento.jpg][Portugal]]
+9. [[https://en.wikipedia.org/wiki/File:Riksdagshuset_2.jpg][Sweden]]
+10. [[https://en.wikipedia.org/wiki/File:Parliament_of_Finland1.jpg][Finland]]
+11. [[https://commons.wikimedia.org/wiki/File:Griechisches_Parlament_nachts_(Zuschnitt).jpg][Greece]]
+12. [[https://en.wikipedia.org/wiki/File:Estland_parliament.jpg][Estland]]
+* COMMENT Заметки
+Заменить изображения на ссылки?

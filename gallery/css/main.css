@@ -1,0 +1,94 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../fonts/Roboto/Roboto-Regular.ttf)
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #efefef;
+    font-family: Roboto;
+}
+main {
+    width: 70%;
+    padding: 50px;
+    margin: auto;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+}
+.photo {
+    width: calc(50% - 40px);
+    height: calc((35vw - 40px) / 16 * 9);
+    margin: 10px;
+    background-color: orange;
+    box-shadow: 0 0 10px 1px rgba(0,0,0,0.2);
+    transition: all 0.5s ease;
+}
+.photo:hover {
+    transform: rotate(3deg) scale(1.07);
+    box-shadow: 0 0 20px 1px rgba(0,0,0,0.4);
+}
+h1, h2 {
+    width: 100%;
+    text-align: center;
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 36px
+}
+.photo1 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/1/14/Berlin_reichstag_CP.jpg);
+    background-size: 100% 100%;
+}
+.photo2 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/e/e4/Houses.of.parliament.overall.arp.jpg);
+    background-size: 100% 100%;
+}
+.photo3 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/a/a7/Versailles_Palace.jpg);
+    background-size: 100% 100%;
+}
+.photo4 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/4/40/Building_of_Council_of_Labor_and_Defense%2C_Moscow.jpg);
+    background-size: 100% 100%;    
+}
+.photo5 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/d/d1/Building_of_the_European_Parliament_in_Brussels.jpg);
+    background-size: 100% 100%;    
+}
+.photo6 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/b/b8/Al%C3%BEingi_2012-07.JPG);
+    background-size: 100% 100%;    
+}
+.photo7 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/e/e0/Den_Haag_Binnenhof_%26_Skyline_2.jpg);
+    background-size: 100% 100%;    
+}
+.photo8 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/4/4b/Lisbon%2C_Portugal_%28Sharon_Hahn_Darlin%29_S%C3%A3o_Bento.jpg);
+    background-size: 100% 100%;    
+}
+.photo9 {
+    background: url(https://upload.wikimedia.org/wikipedia/en/1/13/Riksdagshuset_2.jpg);
+    background-size: 100% 100%;    
+}
+.photo10 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/1/12/Parliament_of_Finland1.jpg);
+    background-size: 100% 100%;    
+}
+.photo11 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/a/a8/Griechisches_Parlament_nachts_%28Zuschnitt%29.jpg);
+    background-size: 100% 100%;    
+}
+.photo12 {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/f/fe/Estland_parliament.jpg);
+    background-size: 100% 100%;    
+}
