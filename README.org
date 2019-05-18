@@ -4,7 +4,7 @@
 | Имя       | Репозиторий                                | Сайт     |
 |-----------+--------------------------------------------+----------|
 | Александр | [[https://github.com/Sashahop]]           | https://sashahop.github.io/shop/ |
-| Артем     | [[https://github.com/TEMPOYDEM/Artem-shop]] |  [[https://tempoydem.github.io/Artem-shop/]]         |
+| Артем     | [[https://github.com/TEMPOYDEM]] |  [[https://tempoydem.github.io/Artem-shop/]]         |
 | Василий   | [[https://github.com/XXX1268]]        | [[https://xxx1268.github.io/vasily-x/]] |
 | Виктор    | [[https://github.com/vvvvbbbb/]]           | https://vvvvbbbb.github.io/cody/ |
 | Михаил    | [[https://github.com/monExcalibur]]  | [[https://monexcalibur.github.io/Yaroslavl/]] |
