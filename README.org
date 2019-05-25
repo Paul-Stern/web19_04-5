@@ -22,8 +22,9 @@
 2. Material [[https://material.io/design/][Design]] \mdash система дизайна, разработанная Google
 3. [[https://git-scm.com/book/en/v2][Pro Git book]]  ([[https://git-scm.com/book/ru/v2][на русском]]) - Книга об использовании системы контроля версий git.
 4. https://resilientwebdesign.com/ - Книга о веб-дизайне. [[https://github.com/adactio/resilientwebdesign][Исходный код]].
-5. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
-6. [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]] ([[https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md][на русском]]) \mdash сборник полезных советов по использованию командной строки, созданный на ГитХабе. Может быть полезен при работе с Git Bash. 
+5. Еще одна [[https://designingfortheweb.co.uk/][книга]] о веб-дизайне.
+6. [[http://www.csszengarden.com/][CSS Zen Garden (Дзен-сад CSS)]]. Сайт-выставка, посвященный CSS дизайну. [[http://www.mezzoblue.com/zengarden/alldesigns/][Сайты-примеры]]. [[https://github.com/mezzoblue/csszengarden.com][Git-репозиторий]].
+7. [[https://github.com/jlevy/the-art-of-command-line][The Art of Command Line]] ([[https://github.com/jlevy/the-art-of-command-line/blob/master/README-ru.md][на русском]]) \mdash сборник полезных советов по использованию командной строки, созданный на ГитХабе. Может быть полезен при работе с Git Bash. 
 * Порядок работы с git на GitHub
 ** Создание и заполнение репозитория на GitHub
 1. git init
